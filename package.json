@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-sample",
+  "version": "0.1.0",
+  "private": true,
+  "repository": "https://github.com/igm50/kubernetes-sample.git",
+  "author": "jintz <keisuke.igimi@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "client"
+  ]
+}
