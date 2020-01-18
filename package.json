@@ -6,6 +6,7 @@
   "author": "jintz <keisuke.igimi@gmail.com>",
   "license": "MIT",
   "workspaces": [
-    "client"
+    "client",
+    "central"
   ]
 }
